@@ -8,11 +8,11 @@
 <h3 align="center">A Full Stack & Mobile Developer from Kenya 🇰🇪 specializing in building high-quality applications.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/wayne-matheka-481592374" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:waynemwendwa04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -55,8 +55,8 @@ I'm a passionate developer with a knack for creating efficient, scalable, and us
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=tokyo-day&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=tokyo-day&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waynemwendwa&theme=tokyo-night&hide_border=true" alt="Streak Stats" />
