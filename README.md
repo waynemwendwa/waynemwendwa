@@ -1,107 +1,72 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/waynemwendwa/waynemwendwa/main/wave.png" width="30px" />
+  </a>
   Hey there, I'm <span style="color:#38BDF8">Wayne Mwendwa</span>
 </h1>
 
-<h3 align="center">🧑‍💻 Full Stack & Mobile Developer | Kenya 🇰🇪</h3>
+<h3 align="center">A Full Stack & Mobile Developer from Kenya 🇰🇪 specializing in building high-quality applications.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waynemwendwa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/etVaTHkGno0im/giphy.gif" alt="Typing animation" width="450" />
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+I'm a passionate developer with a knack for creating efficient, scalable, and user-friendly applications. I thrive on solving complex problems and turning ideas into reality, from the backend logic to the pixel-perfect UI.
 
-- 🔭 Currently working on **React + Node.js full-stack applications**
-- 📱 Building Android apps with **Kotlin**
-- 🌱 Learning **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 💬 Ask me about: **React**, **JavaScript**, **Node**, **PHP**, **Kotlin**
-- 📫 Contact: [waynemwendwa04.com](http://waynemwendwa04.com)
-- ⚡ Fun Fact: I'm obsessed with **clean UI** & **backend efficiency**
+- 🔭 I’m currently building full-stack applications with **React** and **Node.js**.
+- 📱 I develop native Android apps using **Kotlin** and modern Android principles.
+- 🌱 I'm expanding my skills in **Next.js**, **TypeScript**, and **Serverless Architectures**.
+- ⚡ Fun fact: I'm obsessed with **clean code** and **performant systems**.
 
 ---
 
 ### 🛠️ My Tech Stack
-
-#### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css" />
-</p>
-
-#### 🔧 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
-</p>
-
-#### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,express" alt="Backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Mobile"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Tools & Platforms"/>
 </p>
 
 ---
-
-### 💡 What I Can Bring to Your Team
-
-- 🎯 Strong sense of **design + function** from frontend to backend
-- 🧩 Experience building real-world projects from scratch
-- 🔗 RESTful API integration and scalable logic
-- 🧠 Fast learner & collaborative team player
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=waynemwendwa&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waynemwendwa&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <!--
 ### 📂 Featured Projects
 
-- 🔧 [**Smart Inventory App**](https://github.com/waynemwendwa/inventory-system) — Full-stack system for tracking stock using React, Node.js, and MongoDB
-- 📱 [**Fitness Tracker**](https://github.com/waynemwendwa/fitness-kotlin-app) — Kotlin-based Android app to track workouts and progress
-- 🌍 [**Portfolio Website**](https://github.com/waynemwendwa/portfolio) — Built with HTML, TailwindCSS, and JavaScript
--->
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🔧 **[Smart Inventory App](https://github.com/waynemwendwa/inventory-system)** | A full-stack system for tracking stock with a clean, responsive UI. | `React` `Node.js` `Express` `MongoDB` |
+| 📱 **[Fitness Tracker](https://github.com/waynemwendwa/fitness-kotlin-app)** | A Kotlin-based Android app to log workouts and monitor progress. | `Kotlin` `Android Studio` `RoomDB` |
+| 🌍 **[Personal Portfolio](https://github.com/waynemwendwa/portfolio)** | My professional portfolio, built to be fast, responsive, and showcase my work. | `HTML` `Tailwind CSS` `JavaScript` |
 
-<!--
-### 📜 Certifications
-
-- ✅ Responsive Web Design – FreeCodeCamp
-- ✅ Kotlin for Android – Udemy
-- ✅ Node.js Backend APIs – Coursera
+---
 -->
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waynemwendwa&theme=tokyo-night&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waynemwendwa&theme=tokyo-night&hide_border=true" alt="Contribution Heatmap" />
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L4pTfx2qLszoacZRSD/giphy.gif" width="200" />
-</p>
-
-<h4 align="center">✨ Let’s build amazing things together ✨</h4>
+<h3 align="center">
+  ✨ Let's build something amazing together! ✨
+</h3>
