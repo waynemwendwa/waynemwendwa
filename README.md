@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/waynemwendwa/waynemwendwa/main/wave.png" width="30px" />
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand">
   </a>
   Hey there, I'm <span style="color:#38BDF8">Wayne Mwendwa</span>
 </h1>
