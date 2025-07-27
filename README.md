@@ -5,7 +5,7 @@
   Hey there, I'm <span style="color:#38BDF8">Wayne Mwendwa</span>
 </h1>
 
-<h3 align="center">A Full Stack & Mobile Developer from Kenya 🇰🇪 specializing in building high-quality applications.</h3>
+<h3 align="center">A Full Stack Developer from specializing in building high-quality and functioning applications from front-end to the back-end.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wayne-matheka-481592374" target="_blank">
