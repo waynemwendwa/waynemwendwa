@@ -22,9 +22,9 @@
 ### 👨‍💻 About Me
 I'm a passionate developer with a knack for creating efficient, scalable, and user-friendly applications. I thrive on solving complex problems and turning ideas into reality, from the backend logic to the pixel-perfect UI.
 
-- 🔭 I’m currently building full-stack applications with **React** and **Node.js**.
+- 🔭 I’m currently building full-stack applications with **React**,**Next.js**, **TypeScript**, **Express.js** and **Node.js**.
 - 📱 I develop native Android apps using **Kotlin** and modern Android principles.
-- 🌱 I'm expanding my skills in **Next.js**, **TypeScript**, and **Serverless Architectures**.
+- 🌱 I'm expanding my skills in **AI intergration** and **Serverless Architectures**.
 - ⚡ Fun fact: I'm obsessed with **clean code** and **performant systems**.
 
 ---
