@@ -55,8 +55,8 @@ I'm a passionate developer with a knack for creating efficient, scalable, and us
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=tokyo-day&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=tokyo-day&hide_border=true&count_private=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waynemwendwa&show_icons=true&theme=tokyo-day&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynemwendwa&layout=compact&theme=tokyo-day&hide_border=true&count_private=false" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waynemwendwa&theme=tokyo-night&hide_border=true" alt="Streak Stats" />
