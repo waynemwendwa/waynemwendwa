@@ -5,7 +5,7 @@
   Hey there, I'm <span style="color:#38BDF8">Wayne Mwendwa</span>
 </h1>
 
-<h3 align="center">A Full Stack Developer from specializing in building high-quality and functioning applications from front-end to the back-end.</h3>
+<h3 align="center">A Full Stack Maestro crafting high-performance, scalable, and intelligent applications — from sleek UIs to powerful backends.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wayne-matheka-481592374" target="_blank">
@@ -20,12 +20,14 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate developer with a knack for creating efficient, scalable, and user-friendly applications. I thrive on solving complex problems and turning ideas into reality, from the backend logic to the pixel-perfect UI.
+I'm a full stack developer with deep expertise in building robust, efficient, and elegant digital experiences.  
+I thrive where logic meets creativity — turning complex ideas into clean, maintainable, and production-ready solutions.
 
-- 🔭 I’m currently building full-stack applications with **React**,**Next.js**, **TypeScript**, **Express.js** and **Node.js**.
-- 📱 I develop native Android apps using **Kotlin** and modern Android principles.
-- 🌱 I'm expanding my skills in **AI intergration** and **Serverless Architectures**.
-- ⚡ Fun fact: I'm obsessed with **clean code** and **performant systems**.
+- ⚙️ A **maestro** in **Express**, **Node.js**, **TypeScript**, **React**, and **JavaScript**.
+- 📱 I build native Android apps using **Kotlin** and modern Android development practices.
+- 🧠 Currently diving deep into **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** to push the boundaries of what software can do.
+- 🌐 Passionate about **AI integration**, **scalable APIs**, and **serverless architectures**.
+- ⚡ Fun fact: I treat clean, well-structured code like an art form — performance and elegance go hand in hand.
 
 ---
 
@@ -33,7 +35,7 @@ I'm a passionate developer with a knack for creating efficient, scalable, and us
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,express" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb" alt="Backend"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Mobile"/>
   <br/>
@@ -41,17 +43,7 @@ I'm a passionate developer with a knack for creating efficient, scalable, and us
 </p>
 
 ---
-<!--
-### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔧 **[Smart Inventory App](https://github.com/waynemwendwa/inventory-system)** | A full-stack system for tracking stock with a clean, responsive UI. | `React` `Node.js` `Express` `MongoDB` |
-| 📱 **[Fitness Tracker](https://github.com/waynemwendwa/fitness-kotlin-app)** | A Kotlin-based Android app to log workouts and monitor progress. | `Kotlin` `Android Studio` `RoomDB` |
-| 🌍 **[Personal Portfolio](https://github.com/waynemwendwa/portfolio)** | My professional portfolio, built to be fast, responsive, and showcase my work. | `HTML` `Tailwind CSS` `JavaScript` |
-
----
--->
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -68,5 +60,5 @@ I'm a passionate developer with a knack for creating efficient, scalable, and us
 ---
 
 <h3 align="center">
-  ✨ Let's build something amazing together! ✨
+  🚀 Let’s innovate, automate, and build the future — one line of code at a time. ✨
 </h3>
